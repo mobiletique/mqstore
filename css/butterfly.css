@@ -83,9 +83,9 @@ body {
   z-index:1000;
   left: 41%;
   top: 54%;
-  -moz-animation: borboletas-pos-loop 12s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop 12s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop 12s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop 12s ease-in-out infinite ;
+  -webkit-animation: borboletas-pos-loop 12s ease-in-out infinite  ;
+  animation: borboletas-pos-loop 12s ease-in-out infinite  ;
 }
 
 
